@@ -1,3 +1,3 @@
 # Szakdolgozat
 
- A Szakdolgozatom neve: Egy vállakozás oldala: Benzinkút Webshop
+ A Szakdolgozatom neve: Egy vállakozás weblapja: Benzinkút Webshop
